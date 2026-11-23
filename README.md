@@ -1,5 +1,11 @@
 # I 5 Rompiscatole
 
+**Cinque consiglieri esaminano la tua decisione ognuno per conto suo. Poi si
+danno i voti alla cieca, senza sapere chi ha scritto cosa. Il presidente tira
+le somme. Non sei d'accordo? Fai ricorso: secondo grado, poi terzo grado davanti
+al Giudice.** Prima di tutto c'è il Segretario, che controlla che non manchi
+niente.
+
 Una skill per Claude, tutta in italiano. Prima di prendere una decisione
 importante la fai esaminare da cinque rompiscatole. Ognuno ragiona per conto
 suo, poi si giudicano a vicenda senza sapere chi ha scritto cosa. Alla fine
