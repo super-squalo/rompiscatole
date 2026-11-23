@@ -86,4 +86,9 @@ Fatta da [Super Squalo](https://supersqualo.it). Idea ispirata al "LLM Council"
 di Andrej Karpathy e al progetto claude-council (licenza MIT). Riscritta da zero
 in italiano.
 
-Licenza MIT.
+## Licenza
+
+[CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.it). Puoi
+usarla gratis, modificarla e condividerla, citando Super Squalo. **Non puoi
+venderla né usarla per guadagnarci.** Per l'uso commerciale scrivi a
+[Super Squalo](https://supersqualo.it).
